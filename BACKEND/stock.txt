@@ -1,0 +1,82 @@
+[
+  {
+    "Symbol": "BRK.A",
+    "Opening_Price": 483574.73
+  },
+  {
+    "Symbol": "PIXY",
+    "Opening_Price": 9907.2
+  },
+  {
+    "Symbol": "ZTEST",
+    "Opening_Price": 8662.955
+  },
+  {
+    "Symbol": "MULN",
+    "Opening_Price": 7852.5
+  },
+  {
+    "Symbol": "NVR",
+    "Opening_Price": 4817.46
+  },
+  {
+    "Symbol": "SEB",
+    "Opening_Price": 3798.98
+  },
+  {
+    "Symbol": "GMBL",
+    "Opening_Price": 2916
+  },
+  {
+    "Symbol": "AZO",
+    "Opening_Price": 2500
+  },
+  {
+    "Symbol": "BKNG",
+    "Opening_Price": 2195
+  },
+  {
+    "Symbol": "TPL",
+    "Opening_Price": 2084.76
+  },
+  {
+    "Symbol": "MTD",
+    "Opening_Price": 1454.78
+  },
+  {
+    "Symbol": "CMG",
+    "Opening_Price": 1415.59
+  },
+  {
+    "Symbol": "WTM",
+    "Opening_Price": 1407.1
+  },
+  {
+    "Symbol": "MKL",
+    "Opening_Price": 1383.03
+  },
+  {
+    "Symbol": "WFCpL",
+    "Opening_Price": 1233
+  },
+  {
+    "Symbol": "BACpL",
+    "Opening_Price": 1201.98
+  },
+  {
+    "Symbol": "AVTX",
+    "Opening_Price": 1195.2
+  },
+  {
+    "Symbol": "MELI",
+    "Opening_Price": 891.26
+  },
+  {
+    "Symbol": "ORLY",
+    "Opening_Price": 839.83
+  },
+  {
+    "Symbol": "USBpA",
+    "Opening_Price": 800
+  }
+]
